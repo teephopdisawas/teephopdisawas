@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Teephop Disawas
 
-Welcome to my GitHub profile! I'm a developer passionate about building great software and learning new technologies.
+Welcome to my GitHub profile! I'm an I.T. student passionate about building great software and learning new technologies.
 
 ## 🔭 What I'm Working On
 
