@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi there 👋 I'm Teephop Disawas
 
-<!--
-**teephopdisawas/teephopdisawas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a developer passionate about building great software and learning new technologies.
 
-Here are some ideas to get you started:
+## 🔭 What I'm Working On
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Building interesting projects and contributing to open source
+- Exploring new technologies and frameworks
+- Continuously improving my coding skills
+
+## 🌱 What I'm Learning
+
+- Modern web development
+- Software engineering best practices
+- Cloud technologies and DevOps
+
+## 💻 Technologies & Tools
+
+- Programming Languages: Python, JavaScript, and more
+- Web Development: HTML, CSS, React, Node.js
+- Tools: Git, VS Code, Docker
+
+## 📫 How to Reach Me
+
+Feel free to connect with me or check out my projects here on GitHub!
+
+## ⚡ Fun Fact
+
+I love solving problems and turning ideas into reality through code!
+
+---
+
+Thanks for visiting my profile! 😊
