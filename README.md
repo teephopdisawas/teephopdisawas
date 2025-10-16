@@ -24,6 +24,10 @@ Welcome to my GitHub profile! I'm an I.T. student passionate about building grea
 
 Feel free to connect with me or check out my projects here on GitHub!
 
+## My hometown (Born and live here the entire 17 years of my life.)
+
+Krung Thep Mahanakhon (Bangkok) , Thailand .
+
 ## ⚡ Fun Fact
 
 I love solving problems and turning ideas into reality through code!
