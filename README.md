@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+  <img src="./assets/coding-animation.svg" width="800" alt="Coding Animation">
 </div>
 
 ## 🎯 About Me
@@ -207,6 +207,16 @@ I'm a passionate **17-year-old I.T. Vocational Certificate Year 2 student** with
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=teephopdisawas&theme=react-dark&bg_color=1F222E&color=F8F8F2&line=F85D7F&point=F8D866&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 
+### 🐍 Watch the Snake Eat My Contributions!
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/teephopdisawas/teephopdisawas/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/teephopdisawas/teephopdisawas/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/teephopdisawas/teephopdisawas/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
 ---
 
 <div align="center">
@@ -321,18 +331,12 @@ I'm a passionate **17-year-old I.T. Vocational Certificate Year 2 student** with
 ## 📫 Let's Connect & Collaborate!
 
 <div align="center">
-  <a href="https://github.com/teephopdisawas">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=black" alt="GitHub" />
-  </a>
-  <a href="mailto:6729011001@cdti.ac.th">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/teephopdisawas">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/teephopdisawas">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
+  
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=black)](https://github.com/teephopdisawas)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:6729011001@cdti.ac.th)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/teephopdisawas)
+  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/teephopdisawas)
+  
 </div>
 
 <div align="center">
