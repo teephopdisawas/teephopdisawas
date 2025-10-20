@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Teophop Disawas
+# Hi there! 👋 I'm Teephop Disawas
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=500&lines=I.T.+Student;Aspiring+Full-Stack+Developer;Open+Source+Enthusiast;Always+Learning" alt="Typing SVG" />
