@@ -8,48 +8,58 @@
 
 ### 🌱 About Me  
 💻 Started coding at **age 10** with Scratch.  
-⚙️ Grew into **C++ for Arduino**, sparking a deep interest in tech and system security.  
-🔒 Aspiring **SOC (Security Operations Center)** specialist focusing on **cybersecurity** and **automation**.
+⚙️ Learned **C++ for Arduino**, building a strong technical foundation.  
+🔒 Future goal: become a **SOC (Security Operations Center)** analyst focused on cybersecurity and cloud systems.
 
 ---
 
 ### 🧠 Technical Skills
 
 #### 💾 Programming Languages  
-- 🟦 **C++** (Basic)  
-- 🐚 **Bash Script** (Basic)  
-- 🐍 **Python** (Very Basic)
+- 🟦 **C++** ![C++ Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg)  
+- 🐚 **Bash Script** ![Bash Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg)  
+- 🐍 **Python** ![Python Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)
 
 #### ☁️ Cloud & Infrastructure  
-- 🌩️ **Vultr** (Experienced)  
-- ☁️ **GCP** | 🐉 **Alibaba Cloud** | 💧 **DigitalOcean** (Familiar)  
+- 🌩️ **Vultr** ![Vultr Logo](https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/vultr.svg)  
+- ☁️ **GCP** ![GCP Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg)  
+- 🐉 **Alibaba Cloud** ![Alibaba Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/alibabacloud/alibabacloud-original.svg)  
+- 💧 **DigitalOcean** ![DigitalOcean Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/digitalocean/digitalocean-original.svg)  
 - 🚀 **Learning:** ▲ **Vercel**, 🌐 **Netlify**, 🪟 **Azure**
 
 #### 🧩 Operating Systems  
-- 🐧 **Linux:** Raspberry Pi OS, Ubuntu, Kali, Fedora, Arch (Basic)  
-- 🪟 **Windows** (Limited)  
-- 🍎 **macOS** (Limited)
+- 🐧 **Linux (Raspberry Pi OS, Ubuntu, Kali, Fedora, Arch)**  
+  ![Linux Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg)  
+- 🪟 **Windows** ![Windows Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg)  
+- 🍎 **macOS** ![Apple Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg)
 
 #### 🔧 Tools & Software  
-- 🧠 **VS Code** | 🐙 **GitHub** | 🔧 **Git** | 💻 **Dev-C++** | 🍏 **Xcode** | 💡 **Replit**  
-- 🌍 **Firefox** | 🦙 **Ollama** | 🤖 **OpenWebUI**
+- 🧠 **VS Code** ![VSCode Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg)  
+- 🐙 **GitHub** ![GitHub Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg)  
+- 🔧 **Git** ![Git Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg)  
+- 💻 **Dev-C++** ![C++ Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg)  
+- 🍏 **Xcode** ![Xcode Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/xcode/xcode-original.svg)  
+- 💡 **Replit** ![Replit Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/replit/replit-original.svg)  
+- 🌍 **Firefox** ![Firefox Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/firefox/firefox-original.svg)  
+- 🦙 **Ollama** | 🤖 **OpenWebUI**
 
 #### 🌍 Languages  
-- 🇹🇭 **Thai** (Native)  
-- 🇬🇧 **English** (B2)  
-- 🇮🇹 **Italian** (B1+)  
+- 🇹🇭 **Thai (Native)**  
+- 🇬🇧 **English (B2)**  
+- 🇮🇹 **Italian (B1+)**  
 - 📚 **Learning:** 🇮🇩 Indonesian, 🇨🇳 Chinese, 🇯🇵 Japanese, 🇱🇹 Lithuanian  
 
 ---
 
 ### 🚀 Projects  
 🧱 Currently developing foundational projects in IT and cybersecurity.  
-🎯 Future focus: contributing to open-source SOC and security tooling projects.  
+🎯 Focus: Open-source tools for system security and automation.
 
 ---
 
-### 🧭 Career Goal  
-🔐 To become a **Security Operations Center (SOC)** analyst specializing in **incident response, vulnerability analysis,** and **system defense**.  
+### 🎯 Career Goal  
+🔐 To join a **Security Operations Center (SOC)** team specializing in  
+**threat detection, incident response, and system hardening**.
 
 ---
 
