@@ -1,0 +1,108 @@
+<svg width="800" height="400" viewBox="0 0 800 400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .screen {
+        fill: #1e1e1e;
+        stroke: #333;
+        stroke-width: 2;
+      }
+      .code-line {
+        font-family: 'Courier New', monospace;
+        font-size: 14px;
+        fill: #00ff00;
+      }
+      .cursor {
+        fill: #00ff00;
+        animation: blink 1s infinite;
+      }
+      .typing-text {
+        font-family: 'Courier New', monospace;
+        font-size: 14px;
+        fill: #00ff00;
+        opacity: 0;
+        animation: typewriter 4s steps(40, end) infinite;
+      }
+      .floating-code {
+        font-family: 'Courier New', monospace;
+        font-size: 12px;
+        fill: #00d9ff;
+        opacity: 0;
+        animation: float 3s ease-in-out infinite;
+      }
+      .particle {
+        fill: #00d9ff;
+        opacity: 0.8;
+        animation: particle-float 4s linear infinite;
+      }
+      @keyframes blink {
+        0%, 50% { opacity: 1; }
+        51%, 100% { opacity: 0; }
+      }
+      @keyframes typewriter {
+        0% { opacity: 0; }
+        10% { opacity: 1; }
+        90% { opacity: 1; }
+        100% { opacity: 0; }
+      }
+      @keyframes float {
+        0% { transform: translateY(0px); opacity: 0.3; }
+        50% { transform: translateY(-20px); opacity: 1; }
+        100% { transform: translateY(-40px); opacity: 0; }
+      }
+      @keyframes particle-float {
+        0% { transform: translateY(400px) translateX(0px); opacity: 0; }
+        10% { opacity: 1; }
+        90% { opacity: 1; }
+        100% { transform: translateY(-50px) translateX(20px); opacity: 0; }
+      }
+      .glow {
+        filter: drop-shadow(0 0 10px #00ff00);
+      }
+    </style>
+  </defs>
+  
+  <!-- Screen background -->
+  <rect class="screen" x="50" y="50" width="700" height="300" rx="10"/>
+  
+  <!-- Terminal header -->
+  <rect fill="#333" x="50" y="50" width="700" height="30" rx="10 10 0 0"/>
+  <circle fill="#ff5f57" cx="70" cy="65" r="6"/>
+  <circle fill="#ffbd2e" cx="90" cy="65" r="6"/>
+  <circle fill="#28ca42" cx="110" cy="65" r="6"/>
+  
+  <!-- Static code lines -->
+  <text class="code-line" x="70" y="110">const developer = {</text>
+  <text class="code-line" x="90" y="130">  name: 'Teephop Disawas',</text>
+  <text class="code-line" x="90" y="150">  age: 17,</text>
+  <text class="code-line" x="90" y="170">  languages: ['Thai', 'English', 'Italian'],</text>
+  <text class="code-line" x="90" y="190">  skills: ['React', 'Node.js', 'Python', 'AWS'],</text>
+  <text class="code-line" x="90" y="210">  passion: 'Building Tomorrow\'s Solutions',</text>
+  
+  <!-- Animated typing line -->
+  <text class="typing-text" x="90" y="230">  currentProject: 'Amazing Web Apps'</text>
+  <text class="code-line" x="70" y="250">};</text>
+  
+  <!-- Animated cursor -->
+  <rect class="cursor" x="280" y="235" width="2" height="16"/>
+  
+  <!-- Floating code snippets -->
+  <text class="floating-code" x="400" y="120" style="animation-delay: 0s;">&lt;/&gt;</text>
+  <text class="floating-code" x="500" y="140" style="animation-delay: 1s;">{}</text>
+  <text class="floating-code" x="600" y="160" style="animation-delay: 2s;">[ ]</text>
+  <text class="floating-code" x="450" y="200" style="animation-delay: 1.5s;">fn()</text>
+  <text class="floating-code" x="550" y="180" style="animation-delay: 0.5s;">console.log()</text>
+  
+  <!-- Animated particles -->
+  <circle class="particle" cx="100" cy="400" r="2" style="animation-delay: 0s;"/>
+  <circle class="particle" cx="200" cy="400" r="1.5" style="animation-delay: 0.5s;"/>
+  <circle class="particle" cx="300" cy="400" r="2.5" style="animation-delay: 1s;"/>
+  <circle class="particle" cx="400" cy="400" r="1" style="animation-delay: 1.5s;"/>
+  <circle class="particle" cx="500" cy="400" r="2" style="animation-delay: 2s;"/>
+  <circle class="particle" cx="600" cy="400" r="1.5" style="animation-delay: 2.5s;"/>
+  
+  <!-- Glowing effect around screen -->
+  <rect class="glow screen" x="48" y="48" width="704" height="304" rx="12" fill="none" stroke="#00ff00" stroke-width="1" opacity="0.3"/>
+  
+  <!-- Bottom text -->
+  <text x="400" y="380" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#00d9ff">17-year-old Developer | Building the Future, One Line at a Time 🚀</text>
+</svg>
