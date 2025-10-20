@@ -1,361 +1,188 @@
 # Hi there! 👋 I'm Teephop Disawas
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20my%20Universe&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=600&lines=17-year-old+I.T.+Student;Polyglot+Developer;Cloud+%26+DevOps+Enthusiast;Full-Stack+Web+Developer;Always+Learning+%26+Growing" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=17-year-old+I.T.+Visionary+%F0%9F%9A%80;Polyglot+Developer+%F0%9F%8C%8D;Cloud+%26+DevOps+Enthusiast+%E2%98%81%EF%B8%8F;Full-Stack+Architect+%F0%9F%8F%97%EF%B8%8F;Building+Tomorrow's+Solutions+%F0%9F%94%AE" alt="Typing SVG" />
-</div>
+## 🎓 About Me
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
-</div>
+I'm a passionate **17-year-old I.T. Vocational Certificate Year 2 student** with an impressive portfolio of 150+ repositories. As a polyglot developer fluent in multiple languages and technologies, I'm constantly exploring new frontiers in software development, cloud computing, and system administration.
 
-## 🎯 About Me
-
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-I'm a passionate **17-year-old I.T. Vocational Certificate Year 2 student** with an impressive portfolio of **150+ repositories**. As a polyglot developer fluent in multiple languages and technologies, I'm constantly exploring new frontiers in software development, cloud computing, and system administration.
-
-- 🎯 **Current Status**: I.T. Vocational Certificate Year 2 Student  
-- 🎂 **Age**: 17 years old  
-- 📚 **Learning Focus**: Full-stack development, cloud technologies, and DevOps practices  
-- 💻 **Project Experience**: 150+ repositories across multiple programming languages  
-- 🌍 **Language Skills**: Multilingual developer with growing international perspective  
-- 📧 **Student Email**: 6729011001@cdti.ac.th  
-- 🎮 **Fun Fact**: I debug code in my dreams! 😴💭  
-
-<br clear="both"/>
-
----
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-</div>
+- 🎯 **Current Status**: I.T. Vocational Certificate Year 2 Student
+- 🎂 **Age**: 17 years old
+- 📚 **Learning Focus**: Full-stack development, cloud technologies, and DevOps practices
+- 💻 **Project Experience**: 150+ repositories across multiple programming languages
+- 🌍 **Language Skills**: Multilingual developer with growing international perspective
+- 📧 **Student Email**: 6729011001@cdti.ac.th
 
 ## 🌍 Languages I Speak
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://flagsapi.com/TH/flat/64.png" alt="Thai Flag" width="50"/><br/>
-        <b>🇹🇭 Thai</b><br/>
-        <sub>Native Speaker</sub>
-      </td>
-      <td align="center">
-        <img src="https://flagsapi.com/US/flat/64.png" alt="US Flag" width="50"/><br/>
-        <b>🇺🇸 English</b><br/>
-        <sub>B2 Level</sub>
-      </td>
-      <td align="center">
-        <img src="https://flagsapi.com/IT/flat/64.png" alt="Italian Flag" width="50"/><br/>
-        <b>🇮🇹 Italian</b><br/>
-        <sub>A2+ Level</sub>
-      </td>
-      <td align="center">
-        <img src="https://flagsapi.com/CN/flat/64.png" alt="Chinese Flag" width="50"/><br/>
-        <b>🇨🇳 Chinese</b><br/>
-        <sub>Learning</sub>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://flagsapi.com/ID/flat/64.png" alt="Indonesian Flag" width="50"/><br/>
-        <b>🇮🇩 Indonesian</b><br/>
-        <sub>Learning</sub>
-      </td>
-      <td align="center">
-        <img src="https://flagsapi.com/ES/flat/64.png" alt="Spanish Flag" width="50"/><br/>
-        <b>🇪🇸 Spanish</b><br/>
-        <sub>Learning</sub>
-      </td>
-      <td align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="50"/><br/>
-        <b>🌎 More</b><br/>
-        <sub>Coming Soon!</sub>
-      </td>
-      <td align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/216644507-f3c8b6c8-e2a4-4d93-a0c9-8b8c3a2c6c5a.gif" width="50"/><br/>
-        <b>🚀 Future</b><br/>
-        <sub>Polyglot Goal</sub>
-      </td>
-    </tr>
-  </table>
-</div>
+### Fluent
+![Thai](https://img.shields.io/badge/🇹🇭_Thai-Native-green?style=flat-square)
+![English](https://img.shields.io/badge/🇺🇸_English-B2_Level-blue?style=flat-square)
 
----
+### Learning & Practicing
+![Italian](https://img.shields.io/badge/🇮🇹_Italian-A2+-orange?style=flat-square)
+![Chinese](https://img.shields.io/badge/🇨🇳_Chinese-Learning-red?style=flat-square)
+![Indonesian](https://img.shields.io/badge/🇮🇩_Indonesian-Learning-purple?style=flat-square)
+![Spanish](https://img.shields.io/badge/🇪🇸_Spanish-Learning-yellow?style=flat-square)
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="900">
-</div>
+## 💻 Technical Skills & Expertise
 
-## 💻 Technology Arsenal
+### Programming Languages
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
 
-<div align="center">
+### Web Development
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-### 🚀 Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=typescript,javascript,python,cpp,ruby&theme=dark" />
-</p>
+### Cloud Platforms (Experienced)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Alibaba Cloud](https://img.shields.io/badge/-Alibaba_Cloud-FF6A00?style=flat-square&logo=alibaba-cloud&logoColor=white)
+![Vultr](https://img.shields.io/badge/-Vultr-007BFC?style=flat-square&logo=vultr&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white)
 
-### 🌐 Web Development
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,html,css,tailwind&theme=dark" />
-</p>
+### Cloud Platforms (Learning)
+![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Appwrite](https://img.shields.io/badge/-Appwrite-FD366E?style=flat-square&logo=appwrite&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
-### ☁️ Cloud & DevOps (Experienced)
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,git,linux,ubuntu&theme=dark" />
-  <img src="https://img.shields.io/badge/Alibaba_Cloud-FF6A00?style=for-the-badge&logo=alibaba-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vultr-007BFC?style=for-the-badge&logo=vultr&logoColor=white" />
-  <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" />
-</p>
+### Development Tools & Programs
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Firefox](https://img.shields.io/badge/-Firefox-FF7139?style=flat-square&logo=firefox&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/-VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-### 🌤️ Cloud Platforms (Learning)
-<p>
-  <img src="https://skillicons.dev/icons?i=gcp,supabase&theme=dark" />
-  <img src="https://img.shields.io/badge/Appwrite-FD366E?style=for-the-badge&logo=appwrite&logoColor=white" />
-</p>
+### AI & ML Tools
+![Ollama](https://img.shields.io/badge/-Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+![OpenWebUI](https://img.shields.io/badge/-OpenWebUI-FF6B35?style=flat-square&logoColor=white)
 
-### 🛠️ Development Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,docker,firefox,git,mongodb&theme=dark" />
-  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" />
-</p>
+### Operating Systems
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Kali Linux](https://img.shields.io/badge/-Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 
-### 🤖 AI & ML Tools
-<p>
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenWebUI-FF6B35?style=for-the-badge&logoColor=white" />
-</p>
+### Databases
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-### 🐧 Operating Systems
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu&theme=dark" />
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
-</p>
+## 🚀 Featured Learning Projects & Portfolio
 
-</div>
+### 📊 [Productivity Suite](https://github.com/tdisawas0github/productivity-suite)
+**Full-Stack Academic Project** - Comprehensive productivity suite with real-time collaboration
+- **Features**: Word processing, presentations, spreadsheets, todo lists, notes
+- **Tech Stack**: React, Express.js, MongoDB, WebSocket integration
+- **Learning Focus**: Full-stack architecture, real-time data synchronization
+- **Deployment**: Multi-cloud deployment experience
 
----
+### 💻 [Project OS](https://github.com/tdisawas0github/project-os)
+**System Programming Practice** - Deep dive into operating system concepts
+- **Tech Stack**: TypeScript, System-level programming
+- **Learning Focus**: OS fundamentals, low-level programming, Linux systems
+- **Environment**: Tested across Ubuntu and Kali Linux
+
+### 🎨 [Next.js Portfolio](https://github.com/tdisawas0github/nextjs-portfolio)
+**Modern Web Development** - Responsive portfolio with performance optimization
+- **Tech Stack**: Next.js, React, TypeScript
+- **Learning Focus**: SSR/SSG, performance optimization, modern React patterns
+- **Deployment**: Cloud deployment across multiple platforms
+
+### 📝 [Note Application](https://github.com/tdisawas0github/note)
+**Cloud-Deployed Web App** - Feature-rich note-taking with live deployment
+- **Live Demo**: [https://note-thomelab.vercel.app](https://note-thomelab.vercel.app)
+- **Learning Focus**: CRUD operations, state management, cloud deployment
+- **Infrastructure**: Docker containerization, cloud hosting
+
+### 🌟 [Mystical Tamarin Portal](https://github.com/tdisawas0github/mystical-tamarin)
+**Enterprise-Level Web Application** - Comprehensive portal with TypeScript
+- **Live Demo**: [https://mystical-tamarin.vercel.app](https://mystical-tamarin.vercel.app)
+- **Learning Focus**: TypeScript best practices, scalable architecture
+- **DevOps**: CI/CD pipeline, containerized deployment
+
+### 🐍 [Cursor Dashboard](https://github.com/tdisawas0github/cursor-dashboard)
+**Python Web Development** - Dashboard with data visualization
+- **Tech Stack**: Python, Web frameworks
+- **Learning Focus**: Python web development, data visualization, Linux deployment
+
+### 💎 [Super App (Ruby)](https://github.com/tdisawas0github/super-app)
+**Multi-Language Exploration** - Ruby application development
+- **Learning Focus**: Ruby syntax, web application architecture
+- **Environment**: Cross-platform development and testing
+
+## 📊 GitHub Learning Journey
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
-</div>
-
-## 🚀 Featured Projects Showcase
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">🔥 Live Projects</h3>
-        <div align="center">
-          <a href="https://github.com/teephopdisawas/super-app">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=teephopdisawas&repo=super-app&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Super App" />
-          </a>
-          <br/>
-          <a href="https://github.com/teephopdisawas/productivity-hub">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=teephopdisawas&repo=productivity-hub&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Productivity Hub" />
-          </a>
-        </div>
-      </td>
-      <td width="50%">
-        <h3 align="center">⚡ Recent Work</h3>
-        <div align="center">
-          <a href="https://github.com/teephopdisawas/personal-finance-tra">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=teephopdisawas&repo=personal-finance-tra&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Personal Finance Tracker" />
-          </a>
-          <br/>
-          <a href="https://github.com/teephopdisawas/markdown-notes-side">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=teephopdisawas&repo=markdown-notes-side&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Markdown Notes" />
-          </a>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="900">
-</div>
-
-## 📊 GitHub Analytics Dashboard
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=teephopdisawas&show_icons=true&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&text_color=F8F8F2&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-      </td>
-      <td width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=teephopdisawas&theme=react&background=1F222E&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakNum=F8F8F2&sideNums=F8F8F2&currStreakLabel=F85D7F&sideLabels=F85D7F&dates=F8F8F2&hide_border=true" alt="Coding Streak" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api?username=tdisawas0github&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teephopdisawas&layout=compact&theme=react&bg_color=1F222E&title_color=F85D7F&text_color=F8F8F2&hide_border=true&langs_count=10&hide=html,css" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tdisawas0github&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=teephopdisawas&theme=react-dark&bg_color=1F222E&color=F8F8F2&line=F85D7F&point=F8D866&area=true&hide_border=true" alt="Contribution Graph" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="900">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=tdisawas0github&theme=radical&hide_border=true" alt="Coding Streak" />
 </div>
 
 ## 🎯 Achievements & Milestones
 
+- 🎂 **Young Developer**: Started coding journey at an early age (17 years old)
+- 🌍 **Polyglot Communicator**: Fluent in Thai & English, learning 4+ additional languages
+- 📚 **I.T. Vocational Student** - Year 2 with advanced practical skills
+- ☁️ **Cloud Practitioner**: Hands-on experience with 4+ cloud platforms
+- 📦 **150+ Repositories**: Extensive learning portfolio across multiple technologies
+- 🐧 **Linux Enthusiast**: Practical experience with Kali Linux and Ubuntu
+- 🐳 **DevOps Foundation**: Docker containerization and deployment experience
+- 🤖 **AI Integration**: Experience with modern AI tools (Ollama, OpenWebUI)
+- 🚀 **Live Deployments**: Multiple projects deployed and accessible online
+
+## 🌱 Current Learning & Development Goals
+
+### Short-term Goals (2025)
+- 🔍 **Advanced Cloud Architecture** - AWS Solutions Architect fundamentals
+- 📱 **Mobile Development** - React Native for cross-platform apps
+- 🐳 **DevOps Mastery** - Kubernetes, CI/CD pipelines
+- 🛡️ **Cybersecurity Skills** - Advanced penetration testing with Kali Linux
+
+### Long-term Goals (2025-2026)
+- 🎓 **Complete Vocational Certificate** - Graduate with honors
+- ☁️ **Cloud Certifications** - AWS, GCP professional certifications
+- 🌐 **International Collaboration** - Leverage language skills for global projects
+- 🚀 **Open Source Contribution** - Major contributions to international projects
+- 💼 **Industry Internship** - Apply skills in real-world professional environment
+
+### Language Learning Goals
+- 🇨🇳 **Chinese**: Reach conversational level (HSK 3)
+- 🇮🇩 **Indonesian**: Business communication level
+- 🇪🇸 **Spanish**: Intermediate conversational skills
+- 🇮🇹 **Italian**: Advance from A2+ to B1 level
+
+## 📫 Let's Connect!
+
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="25%">
-        <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Achievement" width="80"/><br/>
-        <b>🎂 Young Innovator</b><br/>
-        <sub>Started coding at 17</sub>
-      </td>
-      <td align="center" width="25%">
-        <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" alt="Achievement" width="80"/><br/>
-        <b>🌍 Polyglot Dev</b><br/>
-        <sub>6+ Languages</sub>
-      </td>
-      <td align="center" width="25%">
-        <img src="https://user-images.githubusercontent.com/74038190/216121964-513bdf95-3c8c-429a-82c6-dd9def586c9b.png" alt="Achievement" width="80"/><br/>
-        <b>📚 I.T. Student</b><br/>
-        <sub>Vocational Year 2</sub>
-      </td>
-      <td align="center" width="25%">
-        <img src="https://user-images.githubusercontent.com/74038190/216121986-1a506a75-2381-41c0-a4ed-3dafe20ce81d.png" alt="Achievement" width="80"/><br/>
-        <b>☁️ Cloud Expert</b><br/>
-        <sub>4+ Platforms</sub>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="25%">
-        <img src="https://user-images.githubusercontent.com/74038190/216120974-24a809fe-2b94-4e83-af7b-e99e8b0550b0.png" alt="Achievement" width="80"/><br/>
-        <b>📦 Portfolio Master</b><br/>
-        <sub>150+ Repositories</sub>
-      </td>
-      <td align="center" width="25%">
-        <img src="https://user-images.githubusercontent.com/74038190/216121918-2f5c532b-d2a7-4227-9c51-eeccd0b5b75d.png" alt="Achievement" width="80"/><br/>
-        <b>🐧 Linux Guru</b><br/>
-        <sub>Kali & Ubuntu Expert</sub>
-      </td>
-      <td align="center" width="25%">
-        <img src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-bfdf-0a604e81a91f.png" alt="Achievement" width="80"/><br/>
-        <b>🐳 DevOps Explorer</b><br/>
-        <sub>Docker & Deployment</sub>
-      </td>
-      <td align="center" width="25%">
-        <img src="https://user-images.githubusercontent.com/74038190/216122003-15d23573-4200-4de7-a14e-8fb8bb5e6c86.png" alt="Achievement" width="80"/><br/>
-        <b>🤖 AI Enthusiast</b><br/>
-        <sub>Ollama & OpenWebUI</sub>
-      </td>
-    </tr>
-  </table>
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tdisawas0github)
+[![Email](https://img.shields.io/badge/Student_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:6729011001@cdti.ac.th)
+
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd5-a1c5-fecbb4b897e3.gif" width="900">
-</div>
-
-## 🌱 Goals & Roadmap
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3>🎯 Short-term Goals (2025)</h3>
-        <ul align="left">
-          <li>🔍 <b>Advanced Cloud Architecture</b> - AWS Solutions Architect</li>
-          <li>📱 <b>Mobile Development</b> - React Native mastery</li>
-          <li>🐳 <b>DevOps Excellence</b> - Kubernetes & CI/CD</li>
-          <li>🛡️ <b>Cybersecurity Skills</b> - Advanced penetration testing</li>
-          <li>🤖 <b>AI Integration</b> - Machine Learning fundamentals</li>
-        </ul>
-      </td>
-      <td width="50%">
-        <h3>🚀 Long-term Vision (2025-2026)</h3>
-        <ul align="left">
-          <li>🎓 <b>Graduate with Honors</b> - Complete Vocational Certificate</li>
-          <li>☁️ <b>Cloud Certifications</b> - AWS, GCP professional certs</li>
-          <li>🌐 <b>Global Collaboration</b> - International open source projects</li>
-          <li>💼 <b>Industry Experience</b> - Professional internship</li>
-          <li>🏆 <b>Community Impact</b> - Mentoring junior developers</li>
-        </ul>
-      </td>
-    </tr>
-  </table>
-</div>
-
-### 🌍 Language Learning Goals
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">🇨🇳 <b>Chinese:</b> HSK 3 Level</td>
-      <td align="center">🇮🇩 <b>Indonesian:</b> Business Communication</td>
-      <td align="center">🇪🇸 <b>Spanish:</b> Intermediate Conversation</td>
-      <td align="center">🇮🇹 <b>Italian:</b> B1 Proficiency</td>
-    </tr>
-  </table>
-</div>
-
----
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2e01f4-5ac2-4330-b2d5-84d0c4c44de5.gif" width="900">
-</div>
-
-## 📫 Let's Connect & Collaborate!
-
-<div align="center">
-  <a href="https://github.com/teephopdisawas">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=black" alt="GitHub" />
-  </a>
-  <a href="mailto:6729011001@cdti.ac.th">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/teephopdisawas">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/teephopdisawas">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=tdisawas0github&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216644507-8b2b5f3e-8a13-4d0e-8b4b-0a6b0b9b0b9f.gif" width="150"/>
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+  <i>🎓 "The beautiful thing about learning is that no one can take it away from you" - B.B. King</i>
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=teephopdisawas&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/teephopdisawas?label=Followers&style=for-the-badge&color=blue" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/teephopdisawas?label=Stars&style=for-the-badge&color=yellow" alt="Stars" />
-</div>
-
-<div align="center">
-  <h3>💫 "The beautiful thing about learning is that no one can take it away from you" - B.B. King</h3>
-  <h4>🚀 17-year-old I.T. Student | Polyglot Developer | Cloud Enthusiast | Building Tomorrow's Solutions</h4>
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+GitHub+profile!+⭐;Feel+free+to+explore+my+repositories+🔍;Let's+build+something+amazing+together!+🚀;Happy+coding!+💻" alt="Footer Typing" />
+  <i>💻 17-year-old I.T. Student | Polyglot Developer | Cloud Enthusiast | Building Tomorrow's Solutions</i>
 </div>
