@@ -1,64 +1,66 @@
 # 👋 Hi there, I'm Teephop Disawas  
 
-🎓 Information Technology Student – Vocational Certificate Year 2  
-🏫 Chitralada Vocational School | Chitralada Technology Institute  
+🎓 **Information Technology Student**  
+🏫 **Vocational Certificate Year 2 · Chitralada Vocational School**  
+💡 Chitralada Technology Institute  
 
 ---
 
 ### 🌱 About Me  
-I began coding at age 10 with Scratch, sparking a lifelong interest in technology. Over the years, I evolved from experimenting with Arduino and C++ to pursuing a focused path in IT cybersecurity, aiming to become a **Security Operation Center (SOC)** specialist.  
+💻 Started coding at **age 10** with Scratch.  
+⚙️ Moved into **C++ with Arduino**, sparking a love for systems and security.  
+🔒 Aspiring **SOC (Security Operations Center)** specialist passionate about cybersecurity, cloud systems, and automation.
 
 ---
 
-### 💻 Technical Skills  
+### 🧠 Technical Skills
 
-**Programming**  
-- Basic C++  
-- Basic Bash scripting  
-- Very basic Python  
+#### 💾 Programming  
+🟦 C++ (Basic)  
+🐚 Bash Script (Basic)  
+🐍 Python (Very Basic)
 
-**Cloud & Infrastructure**  
-- Experienced: Vultr  
-- Familiar with: Google Cloud Platform (GCP), Alibaba Cloud, DigitalOcean  
-- Currently learning: Vercel, Netlify, Microsoft Azure  
+#### ☁️ Cloud & Infrastructure  
+🖥️ **Experienced:** Vultr  
+☁️ **Familiar with:** Google Cloud (GCP), Alibaba Cloud, DigitalOcean  
+🚀 **Learning:** Vercel, Netlify, Microsoft Azure  
 
-**Operating Systems**  
-- Linux (Raspberry Pi OS, Ubuntu, Kali, Fedora, Arch) – Basic  
-- Windows and macOS – Limited familiarity  
+#### 🧩 Operating Systems  
+🐧 Linux (Raspberry Pi OS, Ubuntu, Kali, Fedora, Arch) – Basic  
+🪟 Windows – Limited  
+🍎 macOS – Limited  
 
-**Tools & Software**  
-- VS Code, GitHub, Git, Dev-C++, Xcode, Replit  
-- Firefox, Ollama, OpenWebUI  
+#### 🔧 Tools & Software  
+🧮 VS Code | Git | GitHub | Dev-C++ | Xcode | Replit  
+🌐 Firefox | Ollama | OpenWebUI  
 
-**Languages**  
-- Thai (Native)  
-- English (B2 – Independent)  
-- Italian (B1+)  
-- Learning: Indonesian, Chinese, Japanese, Lithuanian  
-
----
-
-### 🛠️ Projects  
-Currently building foundational experience and planning future open-source and cybersecurity projects.  
+#### 🌍 Languages  
+🇹🇭 Thai (Native)  
+🇬🇧 English (B2)  
+🇮🇹 Italian (B1+)  
+📚 Learning: Indonesian, Chinese, Japanese, Lithuanian  
 
 ---
 
-### 📫 Contact  
-teephopdisawas@gmail.com  
+### 🚀 Projects  
+🧱 Currently developing foundational projects in IT and Cybersecurity.  
+🧩 Future focus: Open-source tools for system security and automation.
 
 ---
 
-### 🚀 Career Goal  
-Focused on building expertise in system security, automation, and threat analysis for future roles in a Security Operations Center (SOC).  
+### 🎯 Career Goal  
+🔐 To become a skilled analyst in a **Security Operations Center (SOC)**, specializing in threat detection, incident response, and systems defense automation.
 
 ---
 
-### 🧠 GitHub Activity  
+### 📊 GitHub Stats  
 [![Teephop Disawas' GitHub stats](https://github-readme-stats.vercel.app/api?username=teephopdisawas&show_icons=true&theme=tokyonight)](https://github.com/teephopdisawas)
 
 ---
 
-### 🌐 Connect with Me  
-[GitHub Profile](https://github.com/teephopdisawas)
+### 📫 Contact Me  
+📧 [6729011001@cdti.ac.th](mailto:6729011001@cdti.ac.th)  
+
+🌐 [My GitHub Profile](https://github.com/teephopdisawas)
 
 ---
