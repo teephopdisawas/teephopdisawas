@@ -8,48 +8,48 @@
 
 ### 🌱 About Me  
 💻 Started coding at **age 10** with Scratch.  
-⚙️ Moved into **C++ with Arduino**, sparking a love for systems and security.  
-🔒 Aspiring **SOC (Security Operations Center)** specialist passionate about cybersecurity, cloud systems, and automation.
+⚙️ Grew into **C++ for Arduino**, sparking a deep interest in tech and system security.  
+🔒 Aspiring **SOC (Security Operations Center)** specialist focusing on **cybersecurity** and **automation**.
 
 ---
 
 ### 🧠 Technical Skills
 
-#### 💾 Programming  
-🟦 C++ (Basic)  
-🐚 Bash Script (Basic)  
-🐍 Python (Very Basic)
+#### 💾 Programming Languages  
+- 🟦 **C++** (Basic)  
+- 🐚 **Bash Script** (Basic)  
+- 🐍 **Python** (Very Basic)
 
 #### ☁️ Cloud & Infrastructure  
-🖥️ **Experienced:** Vultr  
-☁️ **Familiar with:** Google Cloud (GCP), Alibaba Cloud, DigitalOcean  
-🚀 **Learning:** Vercel, Netlify, Microsoft Azure  
+- 🌩️ **Vultr** (Experienced)  
+- ☁️ **GCP** | 🐉 **Alibaba Cloud** | 💧 **DigitalOcean** (Familiar)  
+- 🚀 **Learning:** ▲ **Vercel**, 🌐 **Netlify**, 🪟 **Azure**
 
 #### 🧩 Operating Systems  
-🐧 Linux (Raspberry Pi OS, Ubuntu, Kali, Fedora, Arch) – Basic  
-🪟 Windows – Limited  
-🍎 macOS – Limited  
+- 🐧 **Linux:** Raspberry Pi OS, Ubuntu, Kali, Fedora, Arch (Basic)  
+- 🪟 **Windows** (Limited)  
+- 🍎 **macOS** (Limited)
 
 #### 🔧 Tools & Software  
-🧮 VS Code | Git | GitHub | Dev-C++ | Xcode | Replit  
-🌐 Firefox | Ollama | OpenWebUI  
+- 🧠 **VS Code** | 🐙 **GitHub** | 🔧 **Git** | 💻 **Dev-C++** | 🍏 **Xcode** | 💡 **Replit**  
+- 🌍 **Firefox** | 🦙 **Ollama** | 🤖 **OpenWebUI**
 
 #### 🌍 Languages  
-🇹🇭 Thai (Native)  
-🇬🇧 English (B2)  
-🇮🇹 Italian (B1+)  
-📚 Learning: Indonesian, Chinese, Japanese, Lithuanian  
+- 🇹🇭 **Thai** (Native)  
+- 🇬🇧 **English** (B2)  
+- 🇮🇹 **Italian** (B1+)  
+- 📚 **Learning:** 🇮🇩 Indonesian, 🇨🇳 Chinese, 🇯🇵 Japanese, 🇱🇹 Lithuanian  
 
 ---
 
 ### 🚀 Projects  
-🧱 Currently developing foundational projects in IT and Cybersecurity.  
-🧩 Future focus: Open-source tools for system security and automation.
+🧱 Currently developing foundational projects in IT and cybersecurity.  
+🎯 Future focus: contributing to open-source SOC and security tooling projects.  
 
 ---
 
-### 🎯 Career Goal  
-🔐 To become a skilled analyst in a **Security Operations Center (SOC)**, specializing in threat detection, incident response, and systems defense automation.
+### 🧭 Career Goal  
+🔐 To become a **Security Operations Center (SOC)** analyst specializing in **incident response, vulnerability analysis,** and **system defense**.  
 
 ---
 
@@ -62,5 +62,3 @@
 📧 [6729011001@cdti.ac.th](mailto:6729011001@cdti.ac.th)  
 
 🌐 [My GitHub Profile](https://github.com/teephopdisawas)
-
----
