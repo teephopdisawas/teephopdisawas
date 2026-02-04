@@ -74,8 +74,8 @@
   <text class="code-line" x="70" y="110">const developer = {</text>
   <text class="code-line" x="90" y="130">  name: 'Teephop Disawas',</text>
   <text class="code-line" x="90" y="150">  age: 17,</text>
-  <text class="code-line" x="90" y="170">  languages: ['Thai', 'English', 'Italian'],</text>
-  <text class="code-line" x="90" y="190">  skills: ['React', 'Node.js', 'Python', 'AWS'],</text>
+  <text class="code-line" x="90" y="170">  languages: ['Thai', 'English'],</text>
+  <text class="code-line" x="90" y="190">  skills: ['React', 'Basic C++', 'AWS'],</text>
   <text class="code-line" x="90" y="210">  passion: 'Building Tomorrow\'s Solutions',</text>
   
   <!-- Animated typing line -->
